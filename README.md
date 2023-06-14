@@ -19,7 +19,7 @@ Collection of python projects for data analysis and visualization.
 
 # List of projects
 
-## [Instacart Market Basket]()
+## [Instacart Market Basket](https://github.com/ralla-vitale/Python-Projects/tree/main/Instacart%20Basket)
 Online grocery shopping sales project conducted in python for Career Foundry Data Analytics Program. 
 It is used to perform data analysis for real world business related questions and scenarios such as: 
 + When is the busiest days
